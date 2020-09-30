@@ -1,6 +1,6 @@
 ---
-title: Parallel Microcontroller
-subtitle: 2005 - 2006
+title: Parallel Microcontroller (University of Pelita Harapan, 2005 - 2006)
+subtitle: ""
 date: 2020-09-30T21:20:44.842Z
 draft: false
 featured: false
