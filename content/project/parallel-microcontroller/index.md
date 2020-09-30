@@ -13,6 +13,6 @@ image:
 ---
 <!--StartFragment-->
 
-Developed a prototype of parallel processors with microcontrollers. The system consists of up to four configurable microcontrollers that communicate with one another in a master-slave hierarchy. The project involves designing algorithms for parallelizing tasks, communication between processing nodes, result aggregation, and interfacing with outside world. Please read this [paper](https://yudiagusta.files.wordpress.com/2009/11/92-98-snsi06-16-parallel-microcontrolers-at89c52-parallel-processors-in-embedded-system-application-of-robotics.pdf) for more information.
+Developed a prototype of parallel processors with microcontrollers. The system consists of up to four configurable microcontrollers that communicate with one another in a master-slave hierarchy. The project involves designing algorithms for parallelizing tasks, communication between processing nodes, result aggregation, and interfacing with outside world..
 
 <!--EndFragment-->
