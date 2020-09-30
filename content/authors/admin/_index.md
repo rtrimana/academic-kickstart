@@ -1,7 +1,7 @@
 ---
 title: Rahmadi Trimananda
 role: Researcher
-avatar_filename: rahmadi-trimananda_square.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: University of California, Irvine
     url: ""
