@@ -34,7 +34,7 @@ education:
   courses:
     - course: PhD in Computer Engineering
       institution: University of California, Irvine
-      year: 2016
+      year: 2020
     - course: MSc in Computer Engineering
       institution: Delft University of Technology
       year: 2009
