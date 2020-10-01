@@ -20,7 +20,7 @@ publishDate: "2020-10-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2020 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*
+publication: In *2020 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020)*
 publication_short: In *ESEC/FSE 2020*
 
 #abstract: Smart home devices provide the convenience of remotely controlling and automating home appliances. The most advanced smart home environments allow developers to write apps to make smart home devices work together to accomplish tasks, e.g., home security and energy conservation. A smart home app typically implements narrow functionality and thus to fully implement desired functionality homeowners may need to install multiple apps. These different apps can conflict with each other and these conflicts can result in undesired actions such as locking the door during a fire.
