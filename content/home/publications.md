@@ -70,3 +70,7 @@ subtitle = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+{{% alert note %}}
+Please see my [Google Scholar](https://scholar.google.co.id/citations?user=bO3NtXMAAAAJ&hl=en) for a complete list.
+{{% /alert %}}
