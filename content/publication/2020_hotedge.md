@@ -26,4 +26,5 @@ abstract: This paper presents FIDELIUS—a runtime system for secure cloud-based
 
 links:
 url_pdf: https://arxiv.org/abs/2006.11657
+url_poster: https://www.usenix.org/conference/hotedge20/presentation/trimananda
 ---
