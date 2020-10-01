@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Selected Publications"
 subtitle = ""
@@ -68,6 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 Please visit my [Google Scholar](https://scholar.google.co.id/citations?user=bO3NtXMAAAAJ&hl=en) page for a complete list.
 {{% /alert %}}
