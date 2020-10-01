@@ -1,5 +1,5 @@
 ---
-title: "High frame-rate TCSPC-FLIM using a novel SPAD-based image sensor"
+title: "A hierarchically pipelined data acquisition system for single-photon avalanche diode array"
 authors:
 - Rahmadi Trimananda
 date: "2009-09-01T00:00:00Z"
