@@ -46,4 +46,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Rahmadi Trimananda is a researcher in the intersection of cybersecurity, software engineering, hardware engineering, and embedded systems. He has been an excellent technical contributor in both industry and academia for more than 10 years of experience in software and hardware.
+Rahmadi Trimananda is a researcher in the area that is an intersection between cybersecurity, software engineering, hardware engineering, and embedded systems. He has been a technical contributor in both industry and academia for more than 10 years with experience in software and hardware.
