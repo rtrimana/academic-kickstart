@@ -25,8 +25,4 @@ abstract: Smart home devices are vulnerable to passive inference attacks based o
 
 links:
 url_pdf: https://www.ndss-symposium.org/ndss-paper/packet-level-signatures-for-smart-home-devices/
-url_code: http://plrg.ics.uci.edu/pingpong/
-url_dataset: https://athinagroup.eng.uci.edu/projects/pingpong/data/
-url_slides: https://www.ndss-symposium.org/ndss-paper/packet-level-signatures-for-smart-home-devices/
-url_video: https://www.ndss-symposium.org/ndss-paper/packet-level-signatures-for-smart-home-devices/
 ---
