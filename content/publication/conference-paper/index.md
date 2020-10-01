@@ -23,9 +23,4 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 
 links:
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_dataset: '#'
-url_poster: '#'
-url_source: '#'
-url_video: '#'
-
 ---
