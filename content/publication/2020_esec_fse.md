@@ -20,15 +20,15 @@ publishDate: "2020-11-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2020 ISOC Network and Distributed Systems Security Symposium*
-publication_short: In *NDSS 2020*
+publication: In *2020 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*
+publication_short: In *ESEC/FSE 2020*
 
-#abstract: Smart home devices are vulnerable to passive inference attacks based on network traffic, even in the presence of encryption. In this paper, we present PINGPONG, a tool that can automatically extract packet-level signatures for device events (e.g., light bulb turning ON/OFF) from network traffic. We evaluated PINGPONG on popular smart home devices ranging from smart plugs and thermostats to cameras, voice-activated devices, and smart TVs. We were able to: (1) automatically extract previously unknown signatures that consist of simple sequences of packet lengths and directions; (2) use those signatures to detect the devices or specific events with an average recall of more than 97%; (3) show that the signatures are unique among hundreds of millions of packets of real world network traffic; (4) show that our methodology is also applicable to publicly available datasets; and (5) demonstrate its robustness in different settings: events triggered by local and remote smartphones, as well as by home automation systems.
+#abstract: Smart home devices provide the convenience of remotely controlling and automating home appliances. The most advanced smart home environments allow developers to write apps to make smart home devices work together to accomplish tasks, e.g., home security and energy conservation. A smart home app typically implements narrow functionality and thus to fully implement desired functionality homeowners may need to install multiple apps. These different apps can conflict with each other and these conflicts can result in undesired actions such as locking the door during a fire. In this paper, we study conflicts between apps on Samsung SmartThings, the most popular platform for developing and deploying smart home IoT devices. By collecting and studying 198 official and 69 third-party apps, we found significant app conflicts in 3 categories: (1) close to 60% of app pairs that access the same device, (2) more than 90% of app pairs with physical interactions, and (3) around 11% of app pairs that access the same global variable. Our results suggest that the problem of conflicts between smart home apps is serious and can create potential safety risks. We then developed a conflict detection tool that uses model checking to automatically detect up to 96% of the conflicts.
 
 links:
-url_pdf: https://www.ndss-symposium.org/ndss-paper/packet-level-signatures-for-smart-home-devices/
-url_code: http://plrg.ics.uci.edu/pingpong/
-url_dataset: https://athinagroup.eng.uci.edu/projects/pingpong/data/
-url_slides: https://www.ndss-symposium.org/ndss-paper/packet-level-signatures-for-smart-home-devices/
-url_video: https://www.ndss-symposium.org/ndss-paper/packet-level-signatures-for-smart-home-devices/
+url_pdf: https://2020.esec-fse.org/details/fse-2020-papers/16/Understanding-and-Automatically-Detecting-Conflicting-Interactions-between-Smart-Home
+url_code: http://plrg.ics.uci.edu/iotcheck/
+url_dataset: http://plrg.ics.uci.edu/iotcheck/
+url_slides: https://2020.esec-fse.org/details/fse-2020-papers/16/Understanding-and-Automatically-Detecting-Conflicting-Interactions-between-Smart-Home
+url_video: https://2020.esec-fse.org/details/fse-2020-papers/16/Understanding-and-Automatically-Detecting-Conflicting-Interactions-between-Smart-Home
 ---
