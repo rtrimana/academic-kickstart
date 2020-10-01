@@ -5,7 +5,7 @@ authors:
 - Seyed Amir Hossein Aqajari
 - Jason Chuang
 - Brian Demsky
-- Guoqing Harry Xu
+- Harry (Guoqing) Xu
 - Shan Lu
 date: "2020-11-01T00:00:00Z"
 doi: ""
@@ -20,15 +20,12 @@ publishDate: "2020-11-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2020 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*
-publication_short: In *ESEC/FSE 2020*
+publication: In *3rd USENIX Workshop on Hot Topics in Edge Computing*
+publication_short: In *HotEdge '20*
 
-#abstract: Smart home devices provide the convenience of remotely controlling and automating home appliances. The most advanced smart home environments allow developers to write apps to make smart home devices work together to accomplish tasks, e.g., home security and energy conservation. A smart home app typically implements narrow functionality and thus to fully implement desired functionality homeowners may need to install multiple apps. These different apps can conflict with each other and these conflicts can result in undesired actions such as locking the door during a fire. In this paper, we study conflicts between apps on Samsung SmartThings, the most popular platform for developing and deploying smart home IoT devices. By collecting and studying 198 official and 69 third-party apps, we found significant app conflicts in 3 categories: (1) close to 60% of app pairs that access the same device, (2) more than 90% of app pairs with physical interactions, and (3) around 11% of app pairs that access the same global variable. Our results suggest that the problem of conflicts between smart home apps is serious and can create potential safety risks. We then developed a conflict detection tool that uses model checking to automatically detect up to 96% of the conflicts.
+#abstract: This paper presents FIDELIUS runtime system for secure cloud-based storage and communication even in the presence of compromised servers. FIDELIUS’s design is tailored for smart home systems that have intermittent Internet access. In particular, it supports local control of smart home devices in the event that communication with the cloud is lost, and provides a consistency model using transactions to mitigate inconsistencies that can arise due to network partitions. We have implemented FIDELIUS, developed a smart home benchmark that uses FIDELIUS, and measured FIDELIUS’s performance and power consumption. Our experiments show that compared to the commercial Particle.io framework, FIDELIUS reduces more than 50% of the data communication time and increases battery life by 2X. Compared to PyORAM, an alternative (ORAM-based) oblivious storage implementation, FIDELIUS has 4-7X faster access times with 25-43X less data transferred.
 
 links:
-url_pdf: https://2020.esec-fse.org/details/fse-2020-papers/16/Understanding-and-Automatically-Detecting-Conflicting-Interactions-between-Smart-Home
-url_code: http://plrg.ics.uci.edu/iotcheck/
-url_dataset: http://plrg.ics.uci.edu/iotcheck/
-url_slides: https://2020.esec-fse.org/details/fse-2020-papers/16/Understanding-and-Automatically-Detecting-Conflicting-Interactions-between-Smart-Home
-url_video: https://2020.esec-fse.org/details/fse-2020-papers/16/Understanding-and-Automatically-Detecting-Conflicting-Interactions-between-Smart-Home
+url_pdf: https://arxiv.org/abs/2006.11657
+url_poster: https://www.usenix.org/conference/hotedge20/presentation/trimananda
 ---
