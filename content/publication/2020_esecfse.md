@@ -27,7 +27,7 @@ publication_short: In *ESEC/FSE 2020*
 #In this paper, we study conflicts between apps on Samsung SmartThings, the most popular platform for developing and deploying smart home IoT devices. By collecting and studying 198 official and 69 third-party apps, we found significant app conflicts in 3 categories: (1) close to 60% of app pairs that access the same device, (2) more than 90% of app pairs with physical interactions, and (3) around 11% of app pairs that access the same global variable. Our results suggest that the problem of conflicts between smart home apps is serious and can create potential safety risks. We then developed a conflict detection tool that uses model checking to automatically detect up to 96% of the conflicts.
 
 # Summary. An optional shortened abstract.
-summary: ESEC/FSE 2020
+#summary: ESEC/FSE 2020
 
 featured: true
 
