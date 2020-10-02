@@ -66,3 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}}
+Please visit my [Google Scholar](https://scholar.google.co.id/citations?user=bO3NtXMAAAAJ&hl=en) page for a complete list.
+{{% /alert %}}
