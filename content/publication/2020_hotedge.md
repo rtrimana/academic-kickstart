@@ -5,7 +5,7 @@ authors:
 - Ali Younis
 - Thomas Kwa
 - Brian Demsky
-- Harry (Guoqing) Xu
+- Guoqing Harry Xu
 date: "2020-06-01T00:00:00Z"
 doi: ""
 
